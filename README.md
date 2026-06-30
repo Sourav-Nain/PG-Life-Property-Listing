@@ -74,7 +74,7 @@ This project helped me practice:
 
 **Sourav Nain**
 
-GitHub: https://github.com/YOUR_USERNAME
+GitHub: https://github.com/Sourav-Nain
 
 ---
 
